@@ -1,0 +1,3 @@
+# transformer
+该代码从0开始实现transformer
+用于加深对transformer模型的理解
